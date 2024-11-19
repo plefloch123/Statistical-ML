@@ -32,8 +32,8 @@ For more details on the research background, visit the [Tanaka Group's publicati
 
 ## Structure of the Repository
 
-- **`bayesian_eczema_severity_model`**: explanation of the model taken from the paper "Personalized prediction of daily eczema severity scores using a mechanistic machine learning model" [paper](https://pubmed.ncbi.nlm.nih.gov/32750186/)
-- **`eczemapred_model`**: explantion and small implementation/simulation of the eczemapred model from the paper "
+- **`bayesian_eczema_severity_model`**: explanation of the model taken from the paper "Personalized prediction of daily eczema severity scores using a mechanistic machine learning model". [paper link](https://pubmed.ncbi.nlm.nih.gov/32750186/)
+- **`eczemapred_model`**: explantion and small implementation/simulation of the eczemapred model from the paper "EczemaPred: A computational framework for personalised prediction of eczema severity dynamics". [paper link](https://onlinelibrary.wiley.com/doi/10.1002/clt2.12140)
 - **`metrics`**: Going over some different metrics to asses time series prediction.
 - **`mcmc_introduction`**: Intro to MCMC and HMC
 
